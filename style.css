@@ -1,0 +1,29 @@
+.image{
+    display:flex;
+    flex-direction: row;
+      flex-wrap: wrap;
+  }
+  .new {
+   font-family: Tele-Grotesk-Ultra,sans-serif;
+    width: 300px;
+    height: 300px;
+    padding: 400px;
+    border: 1px solid none;
+    color:whitesmoke;
+    position:fixed;
+    
+  }
+  .button {
+    background-color: red;
+    border: none;
+    color: white;
+    text-align: center;
+   
+  }
+  body {
+    background-image: url("https://cdn.tmobile.com/content/dam/t-mobile/ntm/specific-use/netflix/bg/619306-bg-full-netflix-grid-v2.desktop.jpg");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 2000px 2000px;
+  }
+  
